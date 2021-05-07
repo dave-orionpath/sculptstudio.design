@@ -65,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
 	border-color:#efb624!important;
 }
 .text-primary{
-	color:#e68b0de8!important
+	color:#a6a6a6e8 !important
 }
 .bg-dark{
 	background:#232323 !important
@@ -1447,7 +1447,7 @@ ul.timeline > li:before {
     z-index: 400;
 }
 .hero h1{
-	color: #fff;
+	color: #fff !important;
 	letter-spacing: 8px;
 }
 
